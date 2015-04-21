@@ -1,5 +1,5 @@
 {
-  "name": "@ali/ali-mts",
+  "name": "ali-mts",
   "version": "0.0.0",
   "description": "aliyun mts sdk",
   "main": "index.js",
