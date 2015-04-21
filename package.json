@@ -1,0 +1,56 @@
+{
+  "name": "@ali/ali-mts",
+  "version": "0.0.0",
+  "description": "aliyun mts sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony --reporter spec --timeout 10000 --require co-mocha test/*.test.js"
+  },
+  "config": {
+    "cov": {
+      "threshold": 90
+    }
+  },
+  "dependencies": {
+    "co-urllib": "~0.2.3",
+    "copy-to": "~2.0.1",
+    "debug": "~2.1.3",
+    "is-type-of": "~0.3.1",
+    "merge-descriptors": "~1.0.0",
+    "uuid": "~2.0.1"
+  },
+  "devDependencies": {
+    "ali-contributors": "*",
+    "ali.regenerator": "*",
+    "alicov": ">=0.2.1",
+    "autod": "*",
+    "co-mocha": "*",
+    "contentstream": "~0.0.1",
+    "istanbul-harmony": "*",
+    "mm": "~0.2.1",
+    "mocha": "*",
+    "pedding": "~1.0.0",
+    "should": "~4.0.4",
+    "totoro": "*"
+  },
+  "homepage": "https://github.com/ali-sdk/ali-mts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ali-sdk/ali-mts"
+  },
+  "bugs": {
+    "url": "https://github.com/ali-sdk/ali-mts/issues",
+    "email": "gxcsoccer@126.com"
+  },
+  "keywords": [
+    "mts",
+    "aliyun",
+    "sdk",
+    "node"
+  ],
+  "engines": {
+    "node": ">= 0.11.15"
+  },
+  "author": "宗羽 <xiaochen.gaoxc@alibaba-inc.com> (https://gxcsoccer.github.com)",
+  "license": "MIT"
+}
