@@ -30,7 +30,7 @@
     "mm": "~0.2.1",
     "mocha": "*",
     "pedding": "~1.0.0",
-    "should": "~4.0.4",
+    "should": "~8.2.0",
     "totoro": "*"
   },
   "homepage": "https://github.com/ali-sdk/ali-mts",
