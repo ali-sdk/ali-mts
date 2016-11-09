@@ -25,7 +25,7 @@
     "alicov": ">=0.2.1",
     "autod": "*",
     "co-mocha": "*",
-    "contentstream": "~0.0.1",
+    "contentstream": "~1.0.0",
     "istanbul-harmony": "*",
     "mm": "~0.2.1",
     "mocha": "*",
