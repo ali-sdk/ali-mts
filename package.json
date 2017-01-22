@@ -27,7 +27,7 @@
     "co-mocha": "*",
     "contentstream": "~0.0.1",
     "istanbul-harmony": "*",
-    "mm": "~0.2.1",
+    "mm": "~2.0.1",
     "mocha": "*",
     "pedding": "~1.0.0",
     "should": "~4.0.4",
