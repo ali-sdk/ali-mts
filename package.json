@@ -24,7 +24,7 @@
     "ali.regenerator": "*",
     "alicov": ">=0.2.1",
     "autod": "*",
-    "co-mocha": "*",
+    "co-mocha": "1.2.0",
     "contentstream": "~0.0.1",
     "istanbul-harmony": "*",
     "mm": "~0.2.1",
