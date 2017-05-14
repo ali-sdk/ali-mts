@@ -28,7 +28,7 @@
     "contentstream": "~0.0.1",
     "istanbul-harmony": "*",
     "mm": "~0.2.1",
-    "mocha": "*",
+    "mocha": "3.4.0",
     "pedding": "~1.0.0",
     "should": "~4.0.4",
     "totoro": "*"
