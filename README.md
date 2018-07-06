@@ -19,7 +19,9 @@ var AliyunClient = require('../lib/aliyun_client');
 co(function* () {
   var client = new AliyunClient({
     accessKeyId: 'your accessKeyId',
-    accessKeySecret: 'your accessKeySecret'
+    accessKeySecret: 'your accessKeySecret',
+    // set the request timeout,default is 3000
+    timeout: 6000
   });
 
   var result = yield * client.addMedia({
