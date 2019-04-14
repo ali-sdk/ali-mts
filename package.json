@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "ali-contributors": "*",
-    "ali.regenerator": "*",
+    "ali.regenerator": "0.4.12",
     "alicov": ">=0.2.1",
     "autod": "*",
     "co-mocha": "*",
