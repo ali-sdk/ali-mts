@@ -23,7 +23,7 @@
     "ali-contributors": "*",
     "ali.regenerator": "*",
     "alicov": ">=0.2.1",
-    "autod": "*",
+    "autod": "2.4.2",
     "co-mocha": "*",
     "contentstream": "~0.0.1",
     "istanbul-harmony": "*",
